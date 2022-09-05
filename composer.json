@@ -1,6 +1,7 @@
 {
     "name": "itechtonychristopher/php-test-library",
     "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Itechtonychristopher\\PhpTestLibrary\\": "src/"
