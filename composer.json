@@ -1,0 +1,16 @@
+{
+    "name": "itechtonychristopher/php-test-library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itechtonychristopher\\PhpTestLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tony Christopher",
+            "email": "tony.christopher@itech.media"
+        }
+    ],
+    "require": {}
+}
